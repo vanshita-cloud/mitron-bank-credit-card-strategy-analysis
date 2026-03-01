@@ -50,7 +50,6 @@ As a result, recommendations were focused on spending behavior and utilisation p
 
 Future analysis could be strengthened by incorporating risk and repayment data to support more comprehensive product strategy decisions.
 
----
 
 ## 🧠 Analytical Approach & Modeling Decisions
 
@@ -74,3 +73,16 @@ Instead of relying solely on raw totals, several analytical measures were create
 - **High / Medium / Low Utiliser Segmentation** — Enabled identification of high-value customer groups  
 
 These measures shifted the analysis from descriptive reporting to strategic segmentation and decision-support insights.
+
+
+## 🔎 Key Insights
+
+- **Credit Cards account for 40.74% of total spend**, indicating strong existing adoption and a competitive market environment.
+
+- **Bills (₹104M+) and Groceries (₹86M+) are the dominant spending categories**, highlighting recurring and necessity-driven transaction behavior.
+
+- **Salaried IT Professionals demonstrate the highest income utilisation (~51%)**, suggesting strong engagement and digital adoption.
+
+- High-utilisation customers reach **75%+ income utilisation levels**, indicating potential for premium product targeting.
+
+The analysis revealed that the opportunity was not increasing basic adoption, but designing differentiated products aligned with behavioral segments.
