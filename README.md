@@ -131,3 +131,14 @@ Focused on maximizing wallet share from aggressive spenders.
 
 ### Product Strategy & Recommendations
 ![Product Strategy](dashboard_screenshots/strategy.png)
+
+
+## 📂 Dataset Access
+
+The raw dataset files used in this project are available in the `data/` folder:
+
+- `dim_customers.csv`
+- `fact_spends.zip` (compressed due to GitHub file size limits)
+
+The dataset was originally provided as part of the Codebasics Resume Project Challenge and is used here for portfolio and educational purposes.
+
