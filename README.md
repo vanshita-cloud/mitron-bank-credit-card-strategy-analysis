@@ -7,8 +7,8 @@ This project analyzes customer spending behavior to support a bank’s product s
 Using 6 months of transaction data from 4,000 customers across 5 cities, the objective was to identify high-value customer segments, spending patterns, and product feature opportunities.
 
 The focus of this analysis was not just reporting, but generating actionable business insights aligned with strategic decision-making.
----
 
+---
 ## 🎯 Business Problem
 
 Mitron Bank planned to introduce a new line of credit cards but required data-driven insights before finalizing product features and target segments.
