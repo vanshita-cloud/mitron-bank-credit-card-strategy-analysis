@@ -120,3 +120,14 @@ Target Segment: High income utilisation customers
 - Enhanced lifestyle benefits  
 
 Focused on maximizing wallet share from aggressive spenders.
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard_screenshots/overview.png)
+
+### Customer Segmentation & Behaviour Insights
+![Customer Segmentation](dashboard_screenshots/segmentation.png)
+
+### Product Strategy & Recommendations
+![Product Strategy](dashboard_screenshots/strategy.png)
