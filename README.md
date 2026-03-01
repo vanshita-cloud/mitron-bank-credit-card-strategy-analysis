@@ -1,5 +1,13 @@
 # 💳 Mitron Bank Credit Card Strategy Analysis
 
+
+### 🔍 Project Type
+Business Intelligence | Product Strategy Analytics | Financial Services
+
+### 🛠 Tools Used
+Power BI, DAX, Data Modeling, Behavioral Segmentation
+
+
 ## 📌 Project Overview
 
 This project analyzes customer spending behavior to support a bank’s product strategy team in launching a new credit card portfolio.
