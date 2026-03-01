@@ -142,3 +142,38 @@ The raw dataset files used in this project are available in the `data/` folder:
 
 The dataset was originally provided as part of the Codebasics Resume Project Challenge and is used here for portfolio and educational purposes.
 
+
+## 🛠 Technical Appendix
+
+### Data Model Structure
+
+The analysis followed a simple star schema structure:
+
+- `dim_customers` (customer demographics & income)
+- `fact_spends` (transaction-level spend data)
+
+The two tables were connected via `customer_id` (one-to-many relationship).
+
+This structure enabled segmentation and behavioral analysis across demographic dimensions.
+
+
+### Time Normalization Logic
+
+Income values were provided monthly, while transaction data covered 6 months.
+
+To ensure accurate Income Utilisation % calculations, income was normalized to match the 6-month transaction window before computing utilisation metrics.
+
+This prevented inflated ratios and ensured metric integrity.
+
+
+### Custom Measures Implemented
+
+Key analytical measures included:
+
+- **Total Spend**
+- **Average Spend per Customer**
+- **Income Utilisation %**
+- **Payment Contribution %**
+- High / Medium / Low Utiliser Segmentation
+
+These measures enabled behavior-based segmentation rather than simple aggregate reporting.
