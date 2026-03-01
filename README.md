@@ -86,3 +86,37 @@ These measures shifted the analysis from descriptive reporting to strategic segm
 - High-utilisation customers reach **75%+ income utilisation levels**, indicating potential for premium product targeting.
 
 The analysis revealed that the opportunity was not increasing basic adoption, but designing differentiated products aligned with behavioral segments.
+
+
+## 💡 Strategic Recommendations
+
+Based on observed behavioral patterns and segmentation insights, a three-tier credit card strategy was proposed:
+
+### 1️⃣ Essentials Cashback Card
+Target Segment: Recurring spenders across Bills and Groceries  
+
+- Cashback on essential categories  
+- Auto-pay reward incentives  
+- Low annual fee to encourage mass adoption  
+
+Designed to capture stable, recurring monthly transactions.
+
+
+### 2️⃣ Tech Rewards Card
+Target Segment: Salaried IT Professionals and digitally active customers  
+
+- Gadget and electronics cashback  
+- Subscription and digital service rewards  
+- EMI flexibility on high-value purchases  
+
+Aligned with digitally engaged, higher-utilisation customers.
+
+
+### 3️⃣ Premium High-Utiliser Card
+Target Segment: High income utilisation customers  
+
+- Higher credit limits  
+- Milestone-based reward multipliers  
+- Enhanced lifestyle benefits  
+
+Focused on maximizing wallet share from aggressive spenders.
