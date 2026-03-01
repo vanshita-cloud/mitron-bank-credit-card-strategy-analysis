@@ -22,7 +22,6 @@ The product strategy team needed clarity on:
 
 The objective of this analysis was to translate raw transaction data into actionable product strategy recommendations.
 
----
 
 ## 📊 Dataset Summary
 
@@ -50,3 +49,28 @@ While the dataset was rich in transaction behavior, it did not include:
 As a result, recommendations were focused on spending behavior and utilisation patterns rather than credit risk modeling.
 
 Future analysis could be strengthened by incorporating risk and repayment data to support more comprehensive product strategy decisions.
+
+---
+
+## 🧠 Analytical Approach & Modeling Decisions
+
+### Time Alignment Adjustment
+
+One key modeling challenge was aligning time frames.
+
+Income data was recorded monthly, while transaction data covered a 6-month period.  
+To ensure accurate income utilisation calculations, income values were normalized to match the transaction time frame before analysis.
+
+This prevented inflated utilisation percentages and ensured consistency across metrics.
+
+
+### Custom Metrics Developed
+
+Instead of relying solely on raw totals, several analytical measures were created to enable deeper segmentation:
+
+- **Income Utilisation %** — Measured customer spending relative to income over the analysis period  
+- **Payment Contribution %** — Identified behavioral preference across payment modes  
+- **Average Spend per Customer** — Assessed spending intensity across segments  
+- **High / Medium / Low Utiliser Segmentation** — Enabled identification of high-value customer groups  
+
+These measures shifted the analysis from descriptive reporting to strategic segmentation and decision-support insights.
